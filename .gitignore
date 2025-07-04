@@ -1,0 +1,19 @@
+# Java
+/ems_backend/target/
+
+# Node (future frontend)
+/ems_frontend/node_modules/
+
+# Logs
+*.log
+
+# IDEs
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
